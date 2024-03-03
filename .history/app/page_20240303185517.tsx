@@ -6,7 +6,6 @@ export default function Home() {
       <Link href="projects/list" className="  text-white  mt-11">
         see projects
       </Link>
-      <Link href="order">orders</Link>
       Home
     </h1>
   );
